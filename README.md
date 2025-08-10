@@ -19,7 +19,8 @@ Calculating the following measures could help to define proper KPIs:
 - Average Performance rating: women
 
 ## Object
-The object of this analysis is to create a dashboard in PowerBI for Call Center Manager about Diversity & Inclusion that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+The object of this analysis is to create a dashboard in PowerBI to represent HR data, particularly focusing on gender related KPIs. Also to identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+
 ## KPIs include (but not limited to):
 - Hiring
 - Promotions (this year)
