@@ -2,7 +2,21 @@
 ## Dataset Used
 - <a href="https://github.com/kalim-git/PWC-Switzerland-Diversity-Inclusion-Power-BI-Virtual-Internship-/blob/main/Diversity-Inclusion-Dataset.xlsx">Diversity & Inclusion Dataset</a>
 ## Background Information of the Task
+Task is to do the following:
+- Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation.
+- Write what you think some root causes of their slow progress might be.
 
+Calculating the following measures could help to define proper KPIs:
+- Count of men
+- Count of women
+- Count of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover
+- Average performance rating: men
+- Average Performance rating: women
 
 ## Object
 The object of this analysis is to create a dashboard in PowerBI for Call Center Manager about Diversity & Inclusion that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
