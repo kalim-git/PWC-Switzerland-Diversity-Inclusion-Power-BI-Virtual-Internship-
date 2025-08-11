@@ -75,12 +75,16 @@ Data transformation and cleaning were done in Power Query and the dataset was lo
 ## Data Visualization (Dashboard)
 Data visualization for the dataset was done in Microsoft Power BI Desktop.
 - <a href="https://github.com/kalim-git/PWC-Switzerland-Diversity-Inclusion-Power-BI-Virtual-Internship-/blob/main/Diversity%20%26%20Inclusion.pbix">Dashboard</a>
+
 **Hiring, Promotions, Turnover Rate**
   <img width="1278" height="715" alt="page 1" src="https://github.com/user-attachments/assets/b2bd4b61-1191-4a80-9956-568c79dbfa99" />
+
 **Performance Rating, Executive Gender Balance, Age Group**
   <img width="1284" height="718" alt="Page 2" src="https://github.com/user-attachments/assets/1c41c68d-1e85-4821-9edd-85ee66d1fa7e" />
+
 **Job Diversity, Nationality of Employees, Regional Diversity**
   <img width="1285" height="716" alt="Page 3" src="https://github.com/user-attachments/assets/514c5421-ff13-400b-877b-cf6514d0eb3b" />
+
  
 ## Data Analysis
 **Measures(DAX) used**
