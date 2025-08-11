@@ -87,7 +87,7 @@ Data visualization for the dataset was done in Microsoft Power BI Desktop.
 
  
 ## Data Analysis
-**Measures(DAX) used**
+**Measures(DAX) used:**
 - Average Rating Men = `CALCULATE(AVERAGE( 'Pharma Group AG'[FY20 Performance Rating]),'Pharma Group AG'[Gender]="Male")`
 - Average Rating Women = `CALCULATE(AVERAGE( 'Pharma Group AG'[FY20 Performance Rating]),'Pharma Group AG'[Gender]="Female")`
 - Employee Turnover = `DIVIDE('Pharma Group AG'[# of Leavers],COUNT('Pharma Group AG'[Employee ID]),0)`
@@ -115,7 +115,7 @@ As shown by Data Visualization, It can be deduced that:
 - The most common age group is 20-29 having 223 employees fall in this category.
 
 ## Recommendation
-To ensure progress in diversity and inclusion in the executive level;
+To ensure progress in diversity and inclusion in the executive level:
 - More women should be hired and most especially promoted because the gap in the ratio of men to women is quite large.
 - For the Executive and Director position ,female employee count as well as the promotion count is too low compared to male employee hence more women should be hired as well as promoted.
 - Age group 30-39 has more rate of promotion compared to 40-49 age group, experience should be considered as one of the criteria for promotion checklist.
