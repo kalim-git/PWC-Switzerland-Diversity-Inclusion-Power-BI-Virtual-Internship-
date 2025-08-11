@@ -33,35 +33,42 @@ The object of this analysis is to create a dashboard in PowerBI to represent HR 
 The tabulation below shows the Customer retention table with its column names and their description:
 
 | Column Name | Description |
-|--- | --- |
-| customerID | Represents the unique number of the customer in the dataset |
-| gender | Describes the gender of the customer |
-| SeniorCitizen |	Describes if the customer is a senior citizen |
-| Partner | Describes if the customer has a partner |
-| Dependents |	Describes if the customer has a dependent |
-| tenure	| Describes how long as a customer |
-| PhoneService |	If the customer has registered a phone service |
-| MultipleLines |	If the customer has registered multiple lines |
-| InternetService	| If the customer has registered for internet service |
-| OnlineSecurity	| If the customer has registered for online security |
-| OnlineBackup |	If the customer has registered for online backup |
-| DeviceProtection	| If the customer has registered for device protection |
-| TechSupport |	Describes if the customer has registered for tech support |
-| StreamingTV	| If the customer has registered to stream tv |
-| StreamingMovies |	If the customer has registered to stream movies |
-| Contract |	Describes if the length of the contract of the customer |
-| PaperlessBilling |	Describes if the customer has registered for paperless billing |
-| PaymentMethod |	Describes the payment method of the customer |
-| MonthlyCharges |	Represents the monthly charge incurred by the customer |
-| TotalCharges |	Represents the total charge incurred by the customer |
-| numAdminTickets	| Represents the number of admin tickets opened by the customer |
-| numTechTickets	| Represents the number of tech tickets opened by the customer |
-| Churn |	Describes if the customer is at risk of churn |
-
-
+| --- | --- |
+| EmployeeID | Represents the unique number of the employee in the dataset |
+| Gender | Describes the gender of the employee |
+| Job Level after FY20 promotions |	Describes the job level of the employee after being promoted in FY20 |
+| New hire FY20? |	If the employee is a new hire in FY20 |
+| FY20 Performance Rating	| The performance rating of the employee in FY20 |
+| Promotion in FY21? | If the employee is being promoted in FY21 |
+| In base group for Promotion FY21	| If the employee is being selected for promoted in FY21 |
+| Target hire balance	| Describes the target hire balance of the employee |
+| FY20 leaver?	| If the employee is a leaver in FY20 |
+| In base group for turnover FY20	| Describes if the employee is in a group for turnover in FY20 |
+| Department @01.07.2020	| Represents the department each employee belongs to as at January 7, 2020 |
+| Leaver FY	| If the employee is a leaver in a FY |
+| Job Level after FY21 promotions	| Describes the job level of the employee after being promoted in FY21 |
+| Last Department in FY20	| Represents the last department each employee belongs in FY20 |
+| FTE group	| Describes if the employee belongs to a FTE group |
+| Time type	| Represents the contract type employee |
+| Department & JL group PRA status	| Describes the department and JL group PRA status of the employee |
+| Department & JL group for PRA	| Represents the department and JL group PRA of the employee |
+| Job Level group PRA status	| Describes the job level group PRA status of the employee |
+| Job Level group for PRA	| Represents the job level group PRA of the employee |
+| Time in Job Level @01.07.2020	| Describes the time in job level of the employee |
+| Job Level before FY20 promotions	| Describes the job level employee before being promoted in FY20 |
+| Promotion in FY20?	| If the employee is being promoted in FY20 |
+| FY19 Performance Rating	| Describes the performance rating of the employee in FY19 |
+| Age group	| Describes the age group of the employee |
+| Age @01.07.2020	| Represents the age of the employee as at January 07, 2020 |
+| Nationality 1	| Describes the nationality of the employee in state level |
+| Region group: nationality 1	| Represents the nationality of the employee in country level |
+| Broad region group: nationality 1	| Represents the nationality of the employee in regional level |
+| Last hire date	| Describes the last hire date of the employee |
+| Years since last hire	| Represents the number of years since last hire of the employee |
+| Rand	| Generates random number for each entry in the dataset |
 
 ## Data Transformation
-The Diversity & Inclusion dataset has xxx columns and xxxx rows of observation.
+The Diversity & Inclusion dataset has 32 columns and 500 rows of observation.
 
 Data transformation and cleaning were done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modelling.
 
