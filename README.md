@@ -75,7 +75,13 @@ Data transformation and cleaning were done in Power Query and the dataset was lo
 ## Data Visualization (Dashboard)
 Data visualization for the dataset was done in Microsoft Power BI Desktop.
 - <a href="https://github.com/kalim-git/PWC-Switzerland-Diversity-Inclusion-Power-BI-Virtual-Internship-/blob/main/Diversity%20%26%20Inclusion.pbix">Dashboard</a>
-
+**Hiring, Promotions, Turnover Rate**
+  <img width="1278" height="715" alt="page 1" src="https://github.com/user-attachments/assets/b2bd4b61-1191-4a80-9956-568c79dbfa99" />
+**Performance Rating, Executive Gender Balance, Age Group**
+  <img width="1284" height="718" alt="Page 2" src="https://github.com/user-attachments/assets/1c41c68d-1e85-4821-9edd-85ee66d1fa7e" />
+**Job Diversity, Nationality of Employees, Regional Diversity**
+  <img width="1285" height="716" alt="Page 3" src="https://github.com/user-attachments/assets/514c5421-ff13-400b-877b-cf6514d0eb3b" />
+ 
 ## Data Analysis
 **Measures(DAX) used**
 - Average Rating Men = `CALCULATE(AVERAGE( 'Pharma Group AG'[FY20 Performance Rating]),'Pharma Group AG'[Gender]="Male")`
@@ -93,7 +99,8 @@ Data visualization for the dataset was done in Microsoft Power BI Desktop.
 
 ## Insights
 As shown by Data Visualization, It can be deduced that:
-- Overall, the company seems to have a good gender balance in terms of hiring, with women making up just under half (41%) of new hires. However, there is a significant disparity in promotion rates, with only 25% of promotions going to women. This suggests that there may be barriers in place that are preventing women from being promoted at the same rate as men.
+- Overall, the company seems to have a good gender balance in terms of hiring, with women making up just under half (41%) of new hires. However, there is a significant disparity in promotion rates, with only 25% of promotions going to women. Specially from the Senior Manager level the gender gap keeps increasing. This suggests that there may be barriers in place that are preventing women from being promoted at the same rate as men.
+- It is noticiable that in executive roles men tends to get promotion in less time than women.
 - The turnover rate is higher for women than for men. This could be due to a number of factors, including the gender pay gap, a lack of opportunities for advancement, or a hostile work environment.
 - The average performance rating of the employees decreased from to in FY20.
 - Maximum hiring of employees is done from Switzerland ,France & Germany respectively, hence in order to increase diversity need to hire talented employees from different part of globe.
@@ -101,11 +108,12 @@ As shown by Data Visualization, It can be deduced that:
 - Employee promotion rate is increase by 3% in FY21 than FY20.
 - FY20 Hires vs FY21 Job Level: While the number of females hired increased slightly from FY20 (40) to FY21 (41), the number of females in senior positions (director and above) remained the same (3) in both years. This indicates a potential gap in promoting women to higher-level positions.
 - Women are more likely to be in lower-level positions, such as junior officers and managers, while men are more likely to be in higher-level positions, such as directors and executives. This suggests that there may be a lack of opportunities for women to progress to senior leadership positions.
-
+- The most common age group is 20-29 having 223 employees fall in this category.
 
 ## Recommendation
 To ensure progress in diversity and inclusion in the executive level;
 - More women should be hired and most especially promoted because the gap in the ratio of men to women is quite large.
 - For the Executive and Director position ,female employee count as well as the promotion count is too low compared to male employee hence more women should be hired as well as promoted.
-- Age group 30-39 has more rate of promotion compared to 40-49 age group, experience should be consider as one of the the one of the criteria for promotion checklist.
+- Age group 30-39 has more rate of promotion compared to 40-49 age group, experience should be considered as one of the criteria for promotion checklist.
+- Have to create a safe environment for women so that they stay and contribute at the organisation with their expertise.
 
